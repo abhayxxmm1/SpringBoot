@@ -1,1 +1,8 @@
 /.metadata/
+.mvn
+.settings
+target
+.classpath
+.project
+mvnw
+.cmd
