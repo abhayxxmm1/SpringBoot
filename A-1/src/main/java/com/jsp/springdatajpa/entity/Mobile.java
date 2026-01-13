@@ -20,6 +20,11 @@ public class Mobile {
 		this.name = name;
 		this.price = price;
 	}
+
+	@Override
+	public String toString() {
+		return "Mobile [id=" + id + ", name=" + name + ", price=" + price + "]";
+	}
 	
 	
 }
